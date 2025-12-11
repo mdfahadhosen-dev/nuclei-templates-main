@@ -205,7 +205,7 @@ requests:
 
 ---
 
-**Repository Maintainer**: coffinxp  
+**Repository Maintainer**: MD Fahad Hosen  
 **Last Updated**: December 2025  
 **License**: Educational Use Only  
 **Status**: Active Development
